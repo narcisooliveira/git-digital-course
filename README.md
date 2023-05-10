@@ -21,3 +21,5 @@
 - `git restore`: Restaura arquivos da linha do tempo
 
 - `git restore --staged`: Tira o arquivo do stage
+
+- `git push`: Envia alterações locais para o repositório remoto

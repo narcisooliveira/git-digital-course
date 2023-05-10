@@ -25,3 +25,11 @@
 - `git push`: Envia alterações locais para o repositório remoto
 
 - `git pull`: Puxa alterações remotas para o repositório local
+
+- `git clone`: Clona um projeto / repositório	
+
+- `git branch`: Gerencia novas linhas do tempo
+
+- `git checkout`: Manipula as linhas do tempo
+
+- `git merge`: Une linhas do tempo

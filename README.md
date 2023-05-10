@@ -23,3 +23,5 @@
 - `git restore --staged`: Tira o arquivo do stage
 
 - `git push`: Envia alterações locais para o repositório remoto
+
+- `git pull`: Puxa alterações remotas para o repositório local
